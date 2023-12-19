@@ -166,3 +166,4 @@ Werkzeug==3.0.1
 widgetsnbextension==4.0.3
 wrapt==1.14.1
 yarl==1.8.1
+pywin32>=305
